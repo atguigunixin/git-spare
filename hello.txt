@@ -14,14 +14,4 @@ hello world!
 hello world!
 master
 hot
-倪鑫
-我是令狐冲
-我是东方不败
-我是Git  ----spare
-我是Git  ----spare
-我是Git  ----spare
-我是Git  ----spare
-我是Git  ----spare
-我是Git  ----spare
-我是Git  ----spare
-我是Git  ----spare
+
